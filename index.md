@@ -1,24 +1,28 @@
-## Рух підтримки закарпатских військових
+# Рух підтримки закарпатских військових / Transcarpathian military support movement
 
+![Logo](logo.png)
+## Для іноземців/ For foreign:
+- For cash: `Name of the bank CB: 1D Hrushevskoho str., Kyiv, 01001, Ukraine`
+- MFO (Interbranch Turnover): `305299`
+- Recipient: `Skunts Mykola (Скунць Микола Петрович)`
+- IBAN: `UA323052990000026201678468315`
+- Recipient account: `26201678468315`
+- Currency: `UAH`
+- Taxpayer identification number: `2443402437`
+- Purpose of payment - money transfer to: `Skunts Mykola`
 
-### Markdown
+## В Україні:
+### Картка Приватбанку:
+`4731 2196 1388 2993` отримувач `Скунць Микола Петрович`
+
+### Картка Монобанка:
+`4441 1144 1046 2012`
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+###[Завантажити матеріали](https://drive.google.com/drive/folders/15cBdEUbLbBouU3aS3KbWv8B3DBbliJn9?usp=sharing) 
+![lystivka](lystivka.jpg)
+![neobhidne](neobhidne.png)
+![plakat_a4](plakat_a4.png)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
