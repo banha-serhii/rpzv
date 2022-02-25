@@ -18,10 +18,8 @@
 ### Картка Монобанка:
 `4441 1144 1046 2012`
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-
-### [Завантажити матеріали](https://drive.google.com/drive/folders/15cBdEUbLbBouU3aS3KbWv8B3DBbliJn9?usp=sharing) 
+## [Завантажити матеріали](https://drive.google.com/drive/folders/15cBdEUbLbBouU3aS3KbWv8B3DBbliJn9?usp=sharing) 
 ![lystivka](lystivka.jpg)
 ![neobhidne](neobhidne.png)
 ![plakat_a4](plakat_a4.png)
