@@ -1,6 +1,6 @@
 # Рух підтримки закарпатских військових / Transcarpathian military support movement
 
-![Logo](logo.png)
+![Logo](minilogo.png)
 ## Для іноземців/ For foreign:
 - For cash: `Name of the bank CB: 1D Hrushevskoho str., Kyiv, 01001, Ukraine`
 - MFO (Interbranch Turnover): `305299`
